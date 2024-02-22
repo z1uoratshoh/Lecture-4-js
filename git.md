@@ -190,3 +190,13 @@ let str = "Hello, world!";
 let upperCaseStr = str.toUpperCase();
 console.log(upperCaseStr); // Выводит "HELLO, WORLD!"
 ```
+
+
+# Number
+* Math.floor()
+* Math.randum()
+* Math.ceil()
+* Math.max()
+* Math.min()
+* Math.()
+  
