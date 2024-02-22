@@ -198,5 +198,5 @@ console.log(upperCaseStr); // Выводит "HELLO, WORLD!"
 * Math.ceil()
 * Math.max()
 * Math.min()
-* Math.()
+* Math.NaN()
   
