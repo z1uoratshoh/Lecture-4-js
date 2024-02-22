@@ -199,4 +199,3 @@ console.log(upperCaseStr); // Выводит "HELLO, WORLD!"
 * Math.max()
 * Math.min()
 * Math.()
-  
